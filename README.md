@@ -1,6 +1,6 @@
 # CALCULADORA DE LOTES
 
-> Esta é uma aplicação desenvolvida para auxiliar traders com o cálculo de lote em cada operação realizada.
+> Esta é uma aplicação desenvolvida para auxiliar traders com o cálculo de lote em cada operação realizada no índice HK50.
 
 ## 👨‍💻 Tecnologias utilizadas
 

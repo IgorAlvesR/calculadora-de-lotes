@@ -1,7 +1,9 @@
+import CalculateVolumeView from '@/components/CalculateVolume'
+
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1>Olá Mundo!</h1>
+    <main className="bg-slate-200 flex min-h-screen flex-col  items-center justify-center md:p-24">
+      <CalculateVolumeView />
     </main>
   )
 }
